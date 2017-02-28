@@ -1,0 +1,8 @@
+{
+  "MailSettings": {
+    "ToAddress": "elielipr@hotmail.com"
+  },
+  "ConnectionStrings": {
+    "WorldContextConnection":  "Server=(localdb)\\MSSQLLocalDb;Database=EmbroideryPatternsDb;Trusted_Connection=true;MultipleActiveResultSets=true;"
+  }
+}
